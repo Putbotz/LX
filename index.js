@@ -68,7 +68,7 @@ publik = true
 //Di Bagian Sini Jangan Di Ubah
 //Kalo Mau Ganti di setting.json
 zeksApi = setting.ZEKSKEY
-fakeyoi = ["Lexxy Official"]
+fakeyoi = ["Put ganteng"]
 const simbol = setting.SIMBOLNYA
 const botName = setting.BotName
 const owner = setting.OwnerNumber
